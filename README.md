@@ -1,2 +1,3 @@
 # AKARD
-Project done our first Hackathon !!!
+Project done on our first Hackathon !!!
+Team : Kiran , Deepak , Akash , Raghavendra .
